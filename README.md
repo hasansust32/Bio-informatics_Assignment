@@ -4,11 +4,12 @@ Python solutions to bioinformatics algorithm problems from the [Rosalind](https:
 
 ## Topics covered
 
-| Folder | Problems |
+| Location | Problems |
 |---|---|
 | `Chapter_1.ipynb` – `Chapter_3.ipynb` | Pattern counting, frequent words, reverse complement and other Chapter 1–3 problems (ba1–ba3), partly using Biopython |
-| `lab day 2` | Genome skew, clump finding, median string, profile-most-probable k-mer, GreedyMotifSearch |
-| `lab day 3` – `lab day 4` | RandomizedMotifSearch, GibbsSampler, k-mer composition, genome-path reconstruction, overlap graph, De Bruijn graphs |
+| `lab day 1`, `lab day 2` | Introductory lab notebook and script |
+| `lab day 3` | Genome skew, clump finding, median string, profile-most-probable k-mer, GreedyMotifSearch |
+| `lab day 4` | RandomizedMotifSearch, GibbsSampler, k-mer composition, genome-path reconstruction, overlap graph, De Bruijn graphs |
 | `lab day 5` | RNA translation, peptide encoding, theoretical spectrum, peptide counting, Eulerian cycle, string reconstruction, contig generation |
 | `lab day 6` | Cyclic peptide scoring, spectral convolution, Leaderboard and Convolution cyclopeptide sequencing, suffix array, trie construction and matching |
 | `lab day 7` | Burrows–Wheeler transform and inversion, last-to-first mapping, BWT pattern matching, suffix-array pattern matching |
